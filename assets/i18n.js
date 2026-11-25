@@ -10,7 +10,7 @@
       nav_faq: "FAQ",
       nav_privacy: "Privacy Policy",
       nav_home: "Home",
-      nav_cta: "Get early access",
+      nav_cta: "Get on Microsoft Store",
       footer_copy: "© 2026 Touchpad Gesture — Chau Tran.",
       footer_support: "GitHub Support",
       footer_contact: "Contact",
@@ -21,7 +21,7 @@
         'Touchpad gestures.<br>Get repeated work done <span class="accent">in one swipe.</span>',
       hero_sub:
         "Turn the gestures you already make into shortcuts, AI actions, and multi-step macros. Keep your hands on the touchpad—and keep working.",
-      hero_cta_primary: "Get early access",
+      hero_cta_primary: "Get it on Microsoft Store",
       hero_cta_secondary: "See how it works",
       hero_trust:
         "No complex setup. 100% offline and works alongside your existing Windows shortcuts.",
@@ -163,15 +163,16 @@
       faq_6_a:
         "Yes. Touchpad Gesture is 100% offline—your gesture configuration and actions remain on your device, with zero telemetry. The app does not require your AI account credentials to trigger an AI action.",
 
-      /* Early Access CTA */
-      cta_eyebrow: "Early access · Microsoft Store coming soon",
+      /* Microsoft Store CTA */
+      cta_eyebrow: "Available now on Microsoft Store",
       cta_title: "Get repeated work done in one swipe.",
       cta_desc:
-        "Try Touchpad Gesture on Windows 10/11, build your first custom actions, and help shape the workflows that matter most.",
-      cta_btn_primary: "Request early access",
+        "Download Touchpad Gesture on Windows 10/11, build your custom actions, and enjoy a 30-day full-feature free trial.",
+      cta_btn_primary: "Download on Microsoft Store",
+      cta_btn_open_store_app: "Open Microsoft Store App",
       cta_btn_secondary: "GitHub Support",
       cta_trust:
-        "100% offline · Windows 10/11 Precision Touchpad · No credit card required.",
+        "100% offline · Windows 10/11 Precision Touchpad · 30-day full-feature free trial.",
 
       /* Privacy Policy Page (preserved) */
       support_email_label: "Email:",
@@ -209,7 +210,7 @@
       nav_faq: "Hỏi đáp",
       nav_privacy: "Chính sách bảo mật",
       nav_home: "Trang chủ",
-      nav_cta: "Đăng ký trải nghiệm",
+      nav_cta: "Tải trên Microsoft Store",
       footer_copy: "© 2026 Touchpad Gesture — Chau Tran.",
       footer_support: "Hỗ trợ GitHub",
       footer_contact: "Liên hệ",
@@ -220,7 +221,7 @@
         'Cử chỉ Touchpad.<br>Xong việc lặp lại <span class="accent">chỉ một cú vuốt.</span>',
       hero_sub:
         "Biến những thao tác vuốt quen thuộc thành phím tắt, lệnh AI và macro đa bước. Giữ tay ngay trên touchpad—và làm việc liền mạch.",
-      hero_cta_primary: "Đăng ký trải nghiệm",
+      hero_cta_primary: "Tải trên Microsoft Store",
       hero_cta_secondary: "Xem cách hoạt động",
       hero_trust:
         "Không cần thiết lập phức tạp. Hoạt động 100% offline, song song với phím tắt Windows sẵn có.",
@@ -362,15 +363,16 @@
       faq_6_a:
         "Có. Touchpad Gesture hoạt động 100% offline—toàn bộ cấu hình cử chỉ lưu cục bộ trên máy và không thu thập telemetry. Ứng dụng cũng không yêu cầu mật khẩu tài khoản AI của bạn.",
 
-      /* Early Access CTA */
-      cta_eyebrow: "Trải nghiệm sớm · Microsoft Store sắp ra mắt",
+      /* Microsoft Store CTA */
+      cta_eyebrow: "Đã có mặt trên Microsoft Store",
       cta_title: "Xong việc lặp lại chỉ trong một cú vuốt.",
       cta_desc:
-        "Dùng thử Touchpad Gesture trên Windows 10/11, tạo những cử chỉ đầu tiên và góp ý cho các quy trình bạn cần nhất.",
-      cta_btn_primary: "Đăng ký trải nghiệm sớm",
+        "Tải Touchpad Gesture cho Windows 10/11, thiết lập cử chỉ theo thói quen của bạn và trải nghiệm 30 ngày dùng thử đầy đủ tính năng.",
+      cta_btn_primary: "Tải từ Microsoft Store",
+      cta_btn_open_store_app: "Mở thẳng ứng dụng Store",
       cta_btn_secondary: "Hỗ trợ GitHub",
       cta_trust:
-        "100% offline · Windows 10/11 Precision Touchpad · Không cần thẻ tín dụng.",
+        "100% offline · Windows 10/11 Precision Touchpad · Dùng thử đầy đủ tính năng 30 ngày.",
 
       /* Privacy Policy Page (preserved) */
       support_email_label: "Email:",
